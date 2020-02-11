@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata-celesteg",
-    version="0.3",
+    version="0.5",
     author="Celeste Griffin",
     author_email="celestebgriff@gmail.com",
     description="helper functions",
